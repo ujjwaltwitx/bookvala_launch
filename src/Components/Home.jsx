@@ -9,7 +9,7 @@ const Home = () => {
     <>
       {/* main div */}
       <div className='h-[50vh] md:h-[50vh] flex justify-center items-center bg-[#e4b12e] w-full '>
-        <h1 className='homeHeading text-3xl md:text-4xl w-[80%] md:w-[60%] lg:text-5xl text-white p-3 text-center font-bold'>Let's Launch Your Beta version Super App</h1>
+        <h1 className='homeHeading text-3xl md:text-4xl w-[80%] md:w-[60%] lg:text-5xl text-white p-3 text-center font-bold'>Let's Launch Your Super App's Beta Version</h1>
       </div>
       {/* main div ends */}
 
