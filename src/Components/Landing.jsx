@@ -10,7 +10,7 @@ const Landing = () => {
       <div className='h-[20vh] md:h-[20vh] w-full '>
       </div>
       <div className='h-[60vh] md:h-[60vh] flex justify-center items-center bg-[#e4b12e] w-full '>
-        <h1 className='homeHeading text-3xl md:text-4xl w-[80%] md:w-[60%] lg:text-5xl text-white p-3 text-center font-bold'>Thanks for joining, we are currently at <span className='text-blue-700'>10%</span> of our goal of 200 active users</h1>
+        <h1 className='homeHeading text-3xl md:text-4xl w-[80%] md:w-[60%] lg:text-5xl text-white p-3 text-center font-bold'>Thanks for joining, we are currently at <span className='text-blue-700'>45%</span> of our goal of 200 active users</h1>
       </div>
       <div className='h-[20vh] md:h-[20vh] w-full'>
       </div>
